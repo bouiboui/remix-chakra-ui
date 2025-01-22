@@ -10,6 +10,11 @@ Open this example on [CodeSandbox](https://codesandbox.com):
 
 [![Open in CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/remix-run/remix/tree/main/examples/chakra-ui)
 
+## Run and debug in the cloud with Codeanywhere
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/remix-run/remix/tree/main/examples/chakra-ui)
+
+
 ## Example
 
 This example shows how to use Chakra UI with Remix.
